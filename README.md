@@ -14,7 +14,7 @@ This task is a part of the [Character Mining](../../../character-mining) project
 
 Each utterance is annotated with one of the seven emotions, *sad*, *mad*, *scared*, *powerful*, *peaceful*, *joyful*, and *neutral*.
 
-* Latest release: v1.0.
+* Latest release: [v1.0](https://github.com/emorynlp/emotion-detection/archive/character-mining-emotion-detection-1.0.tar.gz).
 * [Release notes](doc/release-notes.md).
 
 ## Statistics
