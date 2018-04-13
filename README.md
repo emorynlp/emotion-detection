@@ -1,6 +1,6 @@
 # Emotion Detection
 
-Emotion detection aims to classify a fine-grained emotion for each utterance in multiparty dialogue.
+Emotion Detection aims to classify a fine-grained emotion for each utterance in multiparty dialogue.
 Our annotation is based on the primary emotions in the Feeling Wheel (Willcox, 1982).
 We must admit that the inter-annotator agreement of this annotation is not the greatest; we welcome any contribution from the community to improve the annotation quality.
 This task is a part of the [Character Mining](../../../character-mining) project led by the [Emory NLP](http://nlp.mathcs.emory.edu) research group.
