@@ -6,7 +6,7 @@ We must admit that the inter-annotator agreement of this annotation is not the g
 This task is a part of the [Character Mining](../../../character-mining) project led by the [Emory NLP](http://nlp.mathcs.emory.edu) research group.
 
 <p align="center">
-<img height="500" src="http://ct.counseling.org/wp-content/uploads/2017/08/SPIRAL-624x623.jpg">
+<img height="500" src="http://nlp.mathcs.emory.edu/character-mining/img/feeling-wheel.jpg">
 </p>
 
 
