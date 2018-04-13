@@ -12,7 +12,7 @@ This task is a part of the [Character Mining](../../../character-mining) project
 
 ## Dataset
 
-Each utterance is annotated with one of the seven emotions, *sad*, *mad*, *scared*, *powerful*, *peaceful*, *joyful*, and *neutral*.
+Each utterance is annotated with one of the seven emotions, *sad*, *mad*, *scared*, *powerful*, *peaceful*, *joyful*, and *neutral*, that are the primary emotions in the Feeling Wheel.
 
 * Latest release: [v1.0](https://github.com/emorynlp/emotion-detection/archive/character-mining-emotion-detection-1.0.tar.gz).
 * [Release notes](doc/release-notes.md).
